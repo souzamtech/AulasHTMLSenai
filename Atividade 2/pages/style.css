@@ -1,0 +1,17 @@
+ h1 {
+            background-color: blue;
+        }
+
+        #titulo-roxo {
+            background-color: purple;
+        }
+
+        .titulo-rosa {
+            background-color: pink;
+        }
+
+        section {
+            background-color: aquamarine;
+            padding: 10px;
+
+        }
